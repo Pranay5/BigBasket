@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\AndroidApps\\BigBasket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_drafts_black_24dp.png",
+        "source": "D:\\AndroidApps\\BigBasket\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_drafts_black_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\BigBasket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_assignment_ind_black_24dp.png",
+        "source": "D:\\AndroidApps\\BigBasket\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_assignment_ind_black_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\BigBasket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_edit_location_black_24dp.png",
+        "source": "D:\\AndroidApps\\BigBasket\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_edit_location_black_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\BigBasket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_surround_sound_black_24dp.png",
+        "source": "D:\\AndroidApps\\BigBasket\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_surround_sound_black_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\BigBasket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_drive_eta_black_24dp.png",
+        "source": "D:\\AndroidApps\\BigBasket\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_drive_eta_black_24dp.png"
+    },
+    {
+        "merged": "D:\\AndroidApps\\BigBasket\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add_a_photo_black_24dp.png",
+        "source": "D:\\AndroidApps\\BigBasket\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_add_a_photo_black_24dp.png"
+    }
+]

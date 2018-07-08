@@ -1,0 +1,7 @@
+#Sat Jun 23 15:59:02 IST 2018
+base.0=D\:\\AndroidApps\\BigBasket\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_05f63dbba68560053d7b4239049eb73ce214ad9a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\AndroidApps\\BigBasket\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_87e44a8f0fec5f7e896b44808685a0bbaa1821d4\\classes.dex
+base.1=D\:\\AndroidApps\\BigBasket\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_87e44a8f0fec5f7e896b44808685a0bbaa1821d4
+file.0=D\:\\AndroidApps\\BigBasket\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_05f63dbba68560053d7b4239049eb73ce214ad9a\\classes.dex

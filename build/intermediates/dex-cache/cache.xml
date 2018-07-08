@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidApps\BigBasket\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="a03df16c914f1824526113b7436a0c1ff9955333">
+        <dex dex="D:\AndroidApps\BigBasket\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_87e44a8f0fec5f7e896b44808685a0bbaa1821d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidApps\BigBasket\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\AndroidApps\BigBasket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_bd4b84266f2a01b7d985c6f90bd208037400197c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidApps\BigBasket\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\AndroidApps\BigBasket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_5ef3c355bb86db4879d7dd04f50a411e4f4fdb84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidApps\BigBasket\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\AndroidApps\BigBasket\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_872e34000b60348b97f8b9efffa0136f9813978e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidApps\BigBasket\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="D:\AndroidApps\BigBasket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_0746fbd4c9db7225ebf7b785a2d40ccc55478ae1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidApps\BigBasket\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\AndroidApps\BigBasket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_977c5fe3cbbce8fb3c0bf5a3734ac4aee3bbbf76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidApps\BigBasket\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\AndroidApps\BigBasket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_26fe9ba3668496e076d90875654f165aedb116f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidApps\BigBasket\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\AndroidApps\BigBasket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_318d769eec13bbec03bd178948dc28bce8ba312b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidApps\BigBasket\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\AndroidApps\BigBasket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_c8940a12d74742472acd162a4ff00c5123a48efb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidApps\BigBasket\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="7e3dfce7c1ea2cc41c5b856d6f09303e1855d568">
+        <dex dex="D:\AndroidApps\BigBasket\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_05f63dbba68560053d7b4239049eb73ce214ad9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidSDKNew\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\AndroidApps\BigBasket\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_1929751c197a9b33b90f2d44e16fd99f15d83c43\classes.dex" />
+    </item>
+
+</items>
